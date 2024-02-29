@@ -1,0 +1,64 @@
+/*universal style*/
+html {
+    background-color: rgba(214, 221, 226, 0.5);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+/*header*/
+nav {
+    display: flex;
+    align-items: center;
+    position: relative;
+    bottom: 30px;
+    
+}
+
+nav img {
+    align-items: center;
+    position: relative;
+    right: 35px;
+    /*bottom: 0.2px;*/
+    max-width: 600px;
+    max-height: 870px;
+    margin: 0 auto;
+}
+
+/*main*/
+.main h1 {
+    text-align: center;
+    color: gray;
+}
+
+.main {
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    max-width: 700px;
+    max-height: 870px;
+    background-color: #eaeff2;
+}
+
+.main img {
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    max-width: 700px;
+    max-height: 870px;
+    opacity: 0.9;
+}
+/*section*/
+.vietnam {
+    align-items: center;
+    margin: 0 auto;
+    max-width: 700px;
+    max-height: 870px;
+}
+
+h2 {
+    color:gray
+}
+
+.inDemand {
+    color: red;
+}
